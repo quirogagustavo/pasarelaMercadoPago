@@ -1,4 +1,5 @@
-El servidor esta configurado con https, para desarrollo local en el siguiente link se da una explicacion de como instalar un certificado local de prueba
+El servidor esta configurado con https, para desarrollo local en el siguiente link se da una explicacion de como instalar un certificado local de prueba.
+Para ejecutarlo localmentre se deben generar los certificados.
 
 https://hive.blog/hive-193212/@jfdesousa7/usando-https-localmente-con-node-js
 
